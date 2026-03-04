@@ -21,13 +21,19 @@ workflow automation, and AI-generated content.
 **Tech I work with**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -36,7 +42,6 @@ workflow automation, and AI-generated content.
 | Project | Description | Stack |
 |---|---|---|
 | [KidoRead](https://apps.apple.com/us/app/kidoread-çocuk-kitapları/id6741915390) | AI-generated e-books & audiobooks for kids | Flutter, AI/LLM |
-| [Hukuka Uygun](https://apps.apple.com/us/app/hukuka-uygun/id6478968396) | Real estate legal guidance app & admin panel | React Native, Node.js |
 
 ---
 
