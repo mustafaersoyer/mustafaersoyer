@@ -41,6 +41,7 @@ workflow automation, and AI-generated content.
 
 | Project | Description | Stack |
 |---|---|---|
+| [Konnekt CRM](https://github.com/mustafaersoyer/konnekt-crm) | The Open-Source CRM Built for Modern Teams | Next, Hono, Postgres
 | [KidoRead](https://apps.apple.com/us/app/kidoread-çocuk-kitapları/id6741915390) | AI-generated e-books & audiobooks for kids | Flutter, AI/LLM |
 
 ---
