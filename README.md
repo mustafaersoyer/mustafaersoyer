@@ -1,7 +1,7 @@
 # Mustafa Ersoy
 
-**Full-Stack Engineer · Technical Lead · Founder**  
-Kayseri, Turkey — Open to opportunities
+**Full-Stack Engineer · Technical Lead**  
+Open to opportunities
 
 ---
 
