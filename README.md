@@ -5,8 +5,7 @@ Open to opportunities
 
 ---
 
-I'm a full-stack engineer and technical founder with 6+ years of professional 
-experience and a 12-year background in software development.
+I'm a full-stack engineer and technical founder with a 12-year background in software development.
 
 I co-founded **DuoSoft**, where I led product and engineering for 3 years — 
 taking products from idea to production across web, mobile, and AI. I've worked 
